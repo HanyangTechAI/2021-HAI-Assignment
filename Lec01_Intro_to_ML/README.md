@@ -1,6 +1,8 @@
 # Assignment 01 #
 > Intro to ML
 
+![Trained](train.gif)
+
 아래 두 과제중 하나를 선택하여서 <hai.studygroup@gmail.com> 으로  
 **제목** : [1주차 과제] 성함_학번 과제 제출합니다.
 로 보내주시면 됩니다.
