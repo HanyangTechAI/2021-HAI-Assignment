@@ -9,7 +9,7 @@
 
 ## Assignment ##
 `hw03_linear_regression.ipynb`
-(NONE)
-Colab Link: [여기를 클릭하시오](NONE)  
+
+Colab Link: [여기를 클릭하시오](https://colab.research.google.com/github/HanyangTechAI/2021-HAI-Assignment/blob/main/Lec03_Linear_Regression/hw03_linear_regression.ipynb)  
 
 > 제출시에는 Notebook 안의 빈칸의 내용을 복붙하여 `hai2021_hw03_이름_학번.py` 로 제출해주시면 됩니다.
